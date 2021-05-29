@@ -1,0 +1,15 @@
+{
+  "name": "filereadwrite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fileappend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.13.1"
+  }
+}
